@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-19T16:34:53" hostname="DESKTOP-NFSR68K" time="25.715">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="25.715"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@65e23963
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@51929c02
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@20d41ae3
+ago 19, 2021 11:34:54 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 45110
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago 19, 2021 11:34:56 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@fcf94f1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@457daed
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@828e654
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7ff008de
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5eaa9089
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5f79c674
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1597901c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@53a7271e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@70287a8e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5e9c6fbf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1033baaf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3da9dab8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@47f2fd76
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]], Then he finds the course called resources
+| strCourse |
+| Foundation Express | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]], Then he finds the course called resources
+| strCourse |
+| Foundation Express | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]], Then he finds the course called resources
+| strCourse |
+| Foundation Express | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]], Then he finds the course called resources
+| strCourse |
+| Foundation Express | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given than Junior wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 4835178 | Choucair2021* | [Junior open up [Junior opens the Choucair academy page], Junior login [Junior clicks on Buttom that show us the form to login, Junior enters '4835178' into Where do we write the user, Junior enters 'Choucair2021*' into Where do we write password, Junior clicks on Buttom to confirm login]], When he search for the course on the Choucair academy platform
+| strCourse |
+| Foundation Express | [Junior search [Junior clicks on Selecciona Curos y certificaciones, Junior enters 'Foundation Express' into Buscar el curso, Junior clicks on Dar click en Buscar Curso, Junior clicks on Da click para buscar el curso]], Then he finds the course called resources
+| strCourse |
+| Foundation Express | [Then answer]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
